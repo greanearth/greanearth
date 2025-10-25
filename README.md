@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola Amigos 👋
+
+Currently bumbling my way through learning the tools and techs for full stack dev ...
 
 <!--
 **greanearth/greanearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
